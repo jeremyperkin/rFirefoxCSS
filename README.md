@@ -8,4 +8,4 @@ How to customize Firefox UI with userChrome.css
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Gl4DKyicKKg " target="_blank"><img src="http://img.youtube.com/vi/Gl4DKyicKKg/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="fc4NN0t"><a href="//imgur.com/fc4NN0t">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![enable](https://i.imgur.com/fc4NN0t.gif)
